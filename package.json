@@ -1,0 +1,28 @@
+{
+  "name": "femguardian-backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AryanGupta001/FemGuardian-backend#readme",
+  "bugs": {
+    "url": "https://github.com/AryanGupta001/FemGuardian-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AryanGupta001/FemGuardian-backend.git"
+  },
+  "license": "ISC",
+  "author": "Aryan Gupta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1",
+    "twilio": "^5.5.0"
+  }
+}
