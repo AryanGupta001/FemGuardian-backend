@@ -1,0 +1,5 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-03-26T14:09:27.014Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","path":"/","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"},"timestamp":"2025-03-26T14:09:52.079Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","path":"/favicon.ico","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"},"timestamp":"2025-03-26T14:09:52.265Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","path":"//send-emergency-alert'","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"},"timestamp":"2025-03-26T14:10:37.600Z"}
+{"level":"info","message":{"ip":"::1","method":"GET","path":"/send-emergency-alert","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"},"timestamp":"2025-03-26T14:10:43.632Z"}
